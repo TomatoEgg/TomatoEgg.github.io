@@ -29,4 +29,11 @@ To solve this issue, we need to use other type of executors and in this post, we
 
 
 ## The Solution
-To be continued...
+
+### Kubernetes Setup
+
+1. [Install minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+```
+brew install minikube
+```
+
