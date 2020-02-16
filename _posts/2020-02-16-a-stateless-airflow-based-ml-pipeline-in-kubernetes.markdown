@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A Stateless Airflow Based Machine Learning Pipeline in Kubernetes"
+title:  "A Stateless Airflow Machine Learning CI Pipeline in Kubernetes"
 date:   2020-02-16
-categories: jekyll update
+categories: Airflow Kubernetes ML
 ---
 
 
